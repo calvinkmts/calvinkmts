@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a software engineer, currently passionate about making developer experience fast, smooth and more enjoyable. These day, I'm learning my ways around Neovim, mastering CLI tricks, and building local-first workflows so I won't need to wait on deploys or copy-paste code just to test a change. I believe great onboarding and fast feedback loops are the secret to happy developer and great products.
+
+I have fond memories while playing Fallout 4, Elden Ring, and Starfield (I know with all the flaws in it, Bethesda games just clicked with me).
+
 <!--
 **calvinkmts/calvinkmts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
